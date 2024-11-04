@@ -15,3 +15,7 @@ Configuraciones básicas para trabajar con el fremework de Django
 - 12 Realizar migracion al proyecto --> python manage.py migrate
 - 13 Ejecutar servidor web --> python manage.py runserver
 - Me trabajo el proyecto
+-----------------------------------------------------------------------------------------
+pip install virtualenv 
+.\.envcbtis128Salazar\Scripts\activate.bat
+pip install django
